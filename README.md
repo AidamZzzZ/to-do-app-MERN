@@ -1,3 +1,11 @@
+## 🌐 Proyecto en Producción
+
+Puedes ver la aplicación en funcionamiento en el siguiente enlace:
+
+🔗 **[Task Manager SPA - App desplegada](https://to-do-app-mern-3ezv.onrender.com/)**
+
+---
+
 # 📝 Task Manager SPA
 
 Una aplicación Fullstack tipo To-Do, desarrollada como Single Page Application (SPA), donde puedes crear, editar, eliminar y filtrar tareas por estado o etiqueta. Cada tarea contiene una sola etiqueta que la clasifica dentro de una categoría específica como "Trabajo", "Personal", "Salud", entre otras.
