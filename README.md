@@ -7,10 +7,9 @@ Una aplicación Fullstack tipo To-Do, desarrollada como Single Page Application 
 ## 🚀 Características
 
 - ✅ Crear, leer, actualizar y eliminar tareas.
-- 🎯 Filtrar tareas por estado: `pendiente`, `en progreso` o `completada`.
+- 🎯 Filtrar tareas por estado: 'completed', 'uncompleted'.
 - 🏷️ Asignar una **sola etiqueta** a cada tarea para categorizarla.
-- 🔎 Buscar tareas por nombre (opcional).
-- 📊 Ver estadísticas generales (opcional).
+- 🔎 Buscar tareas por nombre.
 - 🧑‍💻 Interfaz desarrollada como SPA usando React.
 - 🌐 API REST construida con Express.js y MongoDB.
 - 🌱 Código limpio con buenas prácticas y validaciones.
@@ -34,6 +33,6 @@ Una aplicación Fullstack tipo To-Do, desarrollada como Single Page Application 
 - **Mongoose** – ODM para modelar objetos MongoDB en Node.js.
 - **dotenv** – Para manejar variables de entorno de forma segura.
 - **morgan** – Middleware para logging de peticiones HTTP.
-- **json-server** – Utilizado en etapa de desarrollo para mockear datos rápidamente (si aplica).
+- **json-server** – Utilizado en etapa de desarrollo para mockear datos rápidamente.
 
 ---
