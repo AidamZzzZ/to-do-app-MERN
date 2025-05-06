@@ -1,6 +1,6 @@
 # 📝 Task Manager SPA
 
-Una aplicación Fullstack tipo To-Do, desarrollada como Single Page Application (SPA), donde puedes crear, editar, eliminar y filtrar tareas por estado o etiqueta. Cada tarea contiene una sola etiqueta que la clasifica dentro de una categoría específica como "Trabajo", "Estudio", "Urgente", entre otras.
+Una aplicación Fullstack tipo To-Do, desarrollada como Single Page Application (SPA), donde puedes crear, editar, eliminar y filtrar tareas por estado o etiqueta. Cada tarea contiene una sola etiqueta que la clasifica dentro de una categoría específica como "Trabajo", "Personal", "Salud", entre otras.
 
 ---
 
