@@ -20,7 +20,6 @@ Una aplicación Fullstack tipo To-Do, desarrollada como Single Page Application 
 - 🔎 Buscar tareas por nombre.
 - 🧑‍💻 Interfaz desarrollada como SPA usando React.
 - 🌐 API REST construida con Express.js y MongoDB.
-- 🌱 Código limpio con buenas prácticas y validaciones.
 
 ---
 
